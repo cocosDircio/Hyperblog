@@ -1,4 +1,2 @@
-Este solo es un archivo para la muchas pruebas
-de git y 
-github
-pero estoy haciendo modificaciones para hacer otros commit y con html y css
+Este solo es un archivo para la prueba de git y github
+Mañana no ponemos a estudiar Java
