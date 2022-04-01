@@ -1,2 +1,3 @@
-Este solo es un archivo para la prueba de git y github
+Este solo es un archivo para la prueba de git y github y tal vez gitlab
+Realmente hoy podriamos estuduar Java
 Mañana no ponemos a estudiar Java
